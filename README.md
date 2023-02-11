@@ -1,8 +1,10 @@
 # lt-startergift
 
+MADE BY LENOX
+
 # Preview
 
-[ls-startergift](https://streamable.com/r1z30u)
+[lt-startergift](https://streamable.com/r1z30u)
 
 # Dependencies
 
