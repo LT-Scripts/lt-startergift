@@ -6,8 +6,7 @@ RegisterNetEvent('lt-startergift:client:use', function()
         disableCarMovement = false,
         disableMouse = false,
         disableCombat = false,
-        }, {}, {}, {}, function()
-        end, false)
-        Citizen.Wait(2500)
-        TriggerServerEvent('lt-startergift:server:giveitems')
+    }, {}, {}, {}, function()
+            TriggerServerEvent('lt-startergift:server:giveitems')
+    end, false)
 end)
